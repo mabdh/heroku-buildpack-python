@@ -20,3 +20,5 @@ if [ ! -f "$BUILD_DIR/requirements.txt" ] && [ ! -f "$BUILD_DIR/setup.py" ] && [
 fi
 
 echo Python
+
+echo "PhantomJS"
